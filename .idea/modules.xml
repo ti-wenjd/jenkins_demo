@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/jenkins_demo.iml" filepath="$PROJECT_DIR$/.idea/jenkins_demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tianjin/tianjin.iml" filepath="$PROJECT_DIR$/tianjin/tianjin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jenkins_demo.iml" filepath="$PROJECT_DIR$/jenkins_demo.iml" />
     </modules>
   </component>
 </project>

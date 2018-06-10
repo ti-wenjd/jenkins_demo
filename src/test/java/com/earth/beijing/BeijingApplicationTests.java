@@ -1,4 +1,4 @@
-package com.earth.tianjin;
+package com.earth.beijing;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class TianjinApplicationTests {
+public class BeijingApplicationTests {
 
     @Test
     public void contextLoads() {
